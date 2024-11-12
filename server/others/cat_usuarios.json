@@ -1,0 +1,86 @@
+{
+    "IdUsuarioOK" : "4",
+    "IdUsuarioBK" : "1076",
+    "IdPersonaOK" : "4",
+    "IdPersonaBK" : "1076",
+    "Usuario" : "FIBARRAC",
+    "Expira" : "S",
+    "Conectado" : "N",
+    "NumIntentos" : 0,
+    "cat_usuarios_expira_claves" : [
+        {
+            "Clave" : "@Master33",
+            "FechaExpiraIni" : "2022-04-30T00:00:00.628+0000",
+            "FechaExpiraFin" : "2023-04-30T00:00:00.628+0000",
+            "Actual" : "N",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T00:00:00.628+0000",
+                        "UsuarioReg" : "CRAMOSM"
+                    }
+                ]
+            }
+        },
+        {
+            "Clave" : "1234",
+            "FechaExpiraIni" : "2022-04-30T00:00:00.628+0000",
+            "FechaExpiraFin" : "2023-04-30T00:00:00.628+0000",
+            "Actual" : "S",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T00:00:00.628+0000",
+                        "UsuarioReg" : "CRAMOSM"
+                    }
+                ]
+            }
+        }
+    ],
+    "cat_usuarios_estatus" : [
+        {
+            "Estatus" : "INACTIVO",
+            "Actual" : "N",
+            "Observacion" : "",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T00:00:00.628+0000",
+                        "UsuarioReg" : "CRAMOSM"
+                    }
+                ]
+            }
+        },
+        {
+            "Estatus" : "ACTIVO",
+            "Actual" : "S",
+            "Observacion" : "",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T00:00:00.628+0000",
+                        "UsuarioReg" : "CRAMOSM"
+                    }
+                ]
+            }
+        }
+    ], 
+    "detail_row" : {
+        "Activo" : "S",
+        "Borrado" : "N",
+        "detail_row_reg" : [
+            {
+                "FechaReg" : "2022-04-30T00:00:00.628+0000",
+                "UsuarioReg" : "CRAMOSM"
+            }
+        ]
+    }
+}

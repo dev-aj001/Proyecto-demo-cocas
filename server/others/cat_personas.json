@@ -1,0 +1,220 @@
+{
+    "IdPersonaOK" : "4",
+    "IdPersonaBK" : "1076",
+    "Nombre" : "Francisco",
+    "ApPaterno" : "Ibarra",
+    "ApMaterno" : "Carlos",
+    "FechaNac" : "1976-06-24T00:37:10.355+0000",
+    "TipoPersona" : "FISICA",
+    "Sexo" : "H",
+    "Alias" : "Dr.FIC",
+    "cat_personas_dir_webs" : [
+        {
+            "DesDirWeb" : "Facebook",
+            "DireccionWeb" : "https://www.facebook.com/ojosdragon",
+            "TipoDirWeb" : "RED SOCIAL",
+            "Principal" : "S",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T00:00:00.628+0000",
+                        "UsuarioReg" : "FIBARRAC"
+                    }
+                ]
+            }
+        },
+        {
+            "DesDirWeb" : "Instituto Tecnológico de Tepic",
+            "DireccionWeb" : "fibarra@ittepic.edu.mx",
+            "TipoDirWeb" : "CORREO",
+            "Principal" : "S",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T09:10:25.628+0000",
+                        "UsuarioReg" : "FIBARRAC"
+                    }
+                ]
+            }
+        },
+        {
+            "DesDirWeb" : "Tecnológico Nacional de México",
+            "DireccionWeb" : "fibarra@tecnm.edu.mx",
+            "TipoDirWeb" : "CORREO",
+            "Principal" : "N",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T09:10:25.628+0000",
+                        "UsuarioReg" : "FIBARRAC"
+                    }
+                ]
+            }
+        },
+        {
+            "DesDirWeb" : "Embotelladora del Nayar (Coca-Cola)",
+            "DireccionWeb" : "francisco.ibarra@elnayar.com",
+            "TipoDirWeb" : "CORREO",
+            "Principal" : "N",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T09:10:25.628+0000",
+                        "UsuarioReg" : "FIBARRAC"
+                    }
+                ]
+            }
+        }
+    ],
+    "cat_personas_telefonos" : [
+        {
+            "DesTelefono" : "Personal",
+            "CodPais" : "52",
+            "NumTelefono" : "3111147163",
+            "NumExtension" : "",
+            "Principal" : "S",
+            "TipoTelefono" : "MOVIL",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T09:10:25.628+0000",
+                        "UsuarioReg" : "FIBARRAC"
+                    }
+                ]
+            }
+        },
+        {
+            "DesTelefono" : "Coca-Cola",
+            "CodPais" : "52",
+            "NumTelefono" : "3112119700",
+            "NumExtension" : "318",
+            "Principal" : "S",
+            "TipoTelefono" : "TRABAJO",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T09:10:25.628+0000",
+                        "UsuarioReg" : "FIBARRAC"
+                    }
+                ]
+            }
+        },
+        {
+            "DesTelefono" : "Instituto Tecnológico de Tepic",
+            "CodPais" : "52",
+            "NumTelefono" : "3112119400",
+            "NumExtension" : "110",
+            "Principal" : "N",
+            "TipoTelefono" : "TRABAJO",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T09:10:25.628+0000",
+                        "UsuarioReg" : "FIBARRAC"
+                    }
+                ]
+            }
+        }
+    ],
+    "cat_personas_domicilios" : [
+        {
+            "DesDomicilio" : "Particular",
+            "CalleNumero" : "Colibri 233",
+            "EntreCalle1" : "Canario",
+            "EntreCalle2" : "Paloma",
+            "Referencia" : "Torre Blanca",
+            "CodPostal" : "63129",
+            "Principal" : "S",
+            "TipoDomicilio" : "CASA",
+            "Pais" : "México",
+            "Estado" : "Nayarit",
+            "Municipio" : "Tepic",
+            "Localidad" : "Tepic",
+            "Colonia" : "Aves del Paraíso",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T09:10:25.628+0000",
+                        "UsuarioReg" : "FIBARRAC"
+                    }
+                ]
+            }
+        },
+        {
+            "DesDomicilio" : "Grupo Embotellador Nayar Coca-Cola",
+            "CalleNumero" : "Insurgentes 1100",
+            "EntreCalle1" : "Buenos Aires",
+            "EntreCalle2" : "Otranto",
+            "Referencia" : "Edificio Rojo Frente a Gasolinera de Pemex",
+            "CodPostal" : "63170",
+            "Principal" : "S",
+            "TipoDomicilio" : "TRABAJO",
+            "Pais" : "México",
+            "Estado" : "Nayarit",
+            "Municipio" : "Tepic",
+            "Localidad" : "Tepic",
+            "Colonia" : "Los Llanitos",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T09:10:25.628+0000",
+                        "UsuarioReg" : "FIBARRAC"
+                    }
+                ]
+            }
+        },
+        {
+            "DesDomicilio" : "Instituto Tecnológico de Tepic",
+            "CalleNumero" : "Av. Tecnolóligo 2595",
+            "EntreCalle1" : "",
+            "EntreCalle2" : "",
+            "Referencia" : "A un costado de Hotel Nekie Tepic, Frente a Bodega Aurrera Express Plaza Matatipac",
+            "CodPostal" : "63175",
+            "Principal" : "N",
+            "TipoDomicilio" : "TRABAJO",
+            "Pais" : "México",
+            "Estado" : "Nayarit",
+            "Municipio" : "Tepic",
+            "Localidad" : "Tepic",
+            "Colonia" : "Lagos del Country",
+            "detail_row" : {
+                "Activo" : "S",
+                "Borrado" : "N",
+                "detail_row_reg" : [
+                    {
+                        "FechaReg" : "2022-04-30T09:10:25.628+0000",
+                        "UsuarioReg" : "FIBARRAC"
+                    }
+                ]
+            }
+        }
+    ],
+    "detail_row" : {
+        "Activo" : "S",
+        "Borrado" : "N",
+        "detail_row_reg" : [
+            {
+                "FechaReg" : "2022-04-30T00:00:00.628+0000",
+                "UsuarioReg" : "FIBARRAC"
+            }
+        ]
+    }
+}

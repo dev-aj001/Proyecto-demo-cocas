@@ -1,0 +1,19 @@
+{
+    "IdInstitutoOK" : "3",
+    "IdInstitutoBK" : "18DIT0103Z",
+    "DesInstituto" : "Instituto Tecnológico de Bahía",
+    "Alias" : "ITBB",
+    "Matriz" : "N",
+    "Giro" : "EDUCACION",
+    "IdInstitutoSupOK" : "",
+    "detail_row" : {
+        "Activo" : "S",
+        "Borrado" : "N",
+        "detail_row_reg" : [
+            {
+                "FechaReg" : "2022-06-06T22:10:05.628+0000",
+                "UsuarioReg" : "FIBARRAC"
+            }
+        ]
+    }
+}
